@@ -1,6 +1,6 @@
 {
 	"name": "@styxo.codes/dev-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A module containing configuration settings and templates used by devs at Styxo.codes.",
 	"main": "index.js",
 	"author": "Paras Deshpande",
