@@ -1,7 +1,7 @@
 {
 	"name": "styxo.codes-org-config",
 	"version": "1.0.0",
-	"description": "A module containing configuration settings for VS Code plugins used by devs at Styxo.codes.",
+	"description": "A module containing configuration settings and templates used by devs at Styxo.codes.",
 	"main": "index.js",
 	"author": "Paras Deshpande",
 	"license": "MIT"
