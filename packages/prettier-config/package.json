@@ -1,7 +1,7 @@
 {
-	"name": "@styxo.codes/prettier-config",
-	"version": "2.0.0",
-	"description": "Settings used by devs at styxo.codes for the prettier formatter plugin.",
+	"name": "@mosaicstudiosin/prettier-config",
+	"version": "2.0.1",
+	"description": "Settings used by devs at Mosaic Studios for the prettier formatter plugin.",
 	"main": ".prettierrc.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
