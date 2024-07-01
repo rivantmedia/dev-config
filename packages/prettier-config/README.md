@@ -16,7 +16,7 @@ $ npm i @rivantmedia/prettier-config
 In package.json add this line:
 
 ```
-$ "prettier": "@mosaicstudiosin/prettier-config",
+$ "prettier": "@rivantmedia/prettier-config",
 ```
 
 ## Installation using PNPM
@@ -32,7 +32,7 @@ $ pnpm add @rivantmedia/prettier-config
 In package.json add this line:
 
 ```
-$ "prettier": "@mosaicstudiosin/prettier-config",
+$ "prettier": "@rivantmedia/prettier-config",
 ```
 
 ## Installation using YARN
@@ -48,5 +48,5 @@ $ yarn add @rivantmedia/prettier-config
 In package.json add this line:
 
 ```
-$ "prettier": "@mosaicstudiosin/prettier-config",
+$ "prettier": "@rivantmedia/prettier-config",
 ```
