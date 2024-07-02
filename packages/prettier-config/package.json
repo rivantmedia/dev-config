@@ -1,6 +1,6 @@
 {
 	"name": "@rivantmedia/prettier-config",
-	"version": "2.0.1",
+	"version": "3.0.0",
 	"description": "Settings used by devs at Rivant Media for the prettier formatter plugin.",
 	"main": ".prettierrc.js",
 	"scripts": {
