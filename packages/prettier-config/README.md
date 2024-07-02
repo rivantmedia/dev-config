@@ -1,4 +1,5 @@
-# How to Setup Prettier
+# How to setup our Prettier configuration
+*We use Prettier (a code formatter for VS Code) to maintain consistency across our codebase, this document covers the installation of our configuration for Prettier.*
 
 ## Prerequisites:
 
