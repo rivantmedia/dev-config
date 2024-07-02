@@ -1,0 +1,21 @@
+{
+  "name": "@rivantmedia/eslint-config",
+  "version": "1.0.0",
+  "description": "Settings used by devs at Rivant Media for the eslint plugin.",
+  "main": "eslint.config.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajat Gupta",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "@typescript-eslint/eslint-plugin": "^7.15.0",
+    "@typescript-eslint/parser": "^7.15.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.4",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.15.0"
+  }
+}
