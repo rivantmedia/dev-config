@@ -1,52 +1,48 @@
 # How to Setup Prettier
 
-## You need:
+## Prerequisites:
 
-- NPM
+- NodeJS & NPM Installation
+- A package.json file in your project using the `npm init`, `pnpm init` or `yarn init` commands depending on the package manager.
 
 ## Installation using NPM
 
-To install and setup prettier:
+To install the prettier configuration for [@rivantmedia](https://github.com/rivantmedia), run the following command
 
-```
-$ npm init
+```bash
 $ npm i @rivantmedia/prettier-config
 ```
 
 In package.json add this line:
 
 ```
-$ "prettier": "@rivantmedia/prettier-config",
+"prettier": "@rivantmedia/prettier-config",
 ```
 
 ## Installation using PNPM
 
-To install and setup prettier:
+To install the prettier configuration for [@rivantmedia](https://github.com/rivantmedia), run the following command
 
-```
-$ npm install -g pnpm (if does not have pnpm)
-$ pnpm init
+```bash
 $ pnpm add @rivantmedia/prettier-config
 ```
 
 In package.json add this line:
 
 ```
-$ "prettier": "@rivantmedia/prettier-config",
+"prettier": "@rivantmedia/prettier-config",
 ```
 
 ## Installation using YARN
 
-To install and setup prettier:
+To install the prettier configuration for [@rivantmedia](https://github.com/rivantmedia), run the following command
 
-```
-$ npm install -g yarn (if does not have yarn)
-$ yarn init
+```bash
 $ yarn add @rivantmedia/prettier-config
 ```
 
 In package.json add this line:
 
 ```
-$ "prettier": "@rivantmedia/prettier-config",
+"prettier": "@rivantmedia/prettier-config",
 ```
