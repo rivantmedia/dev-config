@@ -31,3 +31,7 @@ better, so that we can say _"I was a part of that!"_.
   - [How to use Git and Github](#how-to-use-git-and-github)
 
 ## How to use Git and Github
+
+This section contains instructions and requirements to contribute to any repository under Rivant's github organisation.
+
+You should have git to use git commands. If not then download the [latest version of git](https://git-scm.com/downloads) and install it in the system.
