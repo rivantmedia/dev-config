@@ -4,8 +4,8 @@ This document is is currently a work in progress, and presents practical
 guidelines for developers and others at Rivant Media who write or contribute to
 code or repo. The guidelines cover:
 
-- coding style and documentation,
-- the use of Git and GitHub in large and small projects, and
+- the use of Git and GitHub in large and small projects,
+- coding style and documentation, and
 - code reviews.
 
 This is a reference document, and as such you are expected to dip into
@@ -24,3 +24,12 @@ it to read the parts that you need to know something about.
 
 Remember, these guidelines are supposed to make everything we produce
 better, so that we can say _"I was a part of that!"_.
+
+## Table of Contents
+
+====================
+
+    - [Coding Guidelines for NBIS Developers](#coding-guidelines-for-rivant-media-developers)
+      -[How to use Git and Github](#how-to-use-git-and-github)
+
+## How to use Git and Github
