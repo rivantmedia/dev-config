@@ -27,6 +27,7 @@ better, so that we can say _"I was a part of that!"_.
 
 ## Table of Contents
 
-- [Coding Guidelines for NBIS Developers](#coding-guidelines-for-rivant-media-developers) -[How to use Git and Github](#how-to-use-git-and-github)
+- [Coding Guidelines for NBIS Developers](#coding-guidelines-for-rivant-media-developers)
+  - [How to use Git and Github](#how-to-use-git-and-github)
 
 ## How to use Git and Github
