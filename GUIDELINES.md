@@ -1,16 +1,12 @@
-# How to contribute
-This document contains instructions and requirements to contribute to any repository under Rivant's github organisation.
+# Coding Guidelines for Rivant Media Developers
 
-\# WORK IN PROGRESS #
+This document is is currently a work in progress, and presents practical
+guidelines for developers and others at Rivant Media who write or contribute to
+code or repo. The guidelines cover:
 
-# NOTES
-- Fork under own account -> Contribute using commits -> Create a PR on the main repo
-- Guidelines for the PR
-- Organizing & variable naming guidelines
-- Code structure guidelines
+- coding style and documentation,
+- the use of Git and GitHub in large and small projects, and
+- code reviews.
 
-
-
-
-
-
+This is a reference document, and as such you are expected to dip into
+it to read the parts that you need to know something about.
