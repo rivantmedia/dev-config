@@ -27,7 +27,7 @@ better, so that we can say _"I was a part of that!"_.
 
 ## Table of Contents
 
-- [Coding Guidelines for NBIS Developers](#coding-guidelines-for-rivant-media-developers)
+- [Coding Guidelines for Rivant Media Developers](#coding-guidelines-for-rivant-media-developers)
   - [Things to be aware of when writing code](#things-to-be-aware-of-when-writing-code)
     - [Intent](#intent)
     - [Comments in code](#comments-in-code)
@@ -103,7 +103,7 @@ Adhering to best programming practices in JavaScript and TypeScript helps ensure
 1. **Consistent Coding Style:**
 
    - Use a linter like ESLint to enforce coding standards.
-   - Use Rivant Media Prettier Configuration for formatting.
+   - Use Rivant Media [Prettier](https://www.npmjs.com/package/@rivantmedia/prettier-config) Configuration for formatting.
 
 2. **Clear and Descriptive Naming:**
 
