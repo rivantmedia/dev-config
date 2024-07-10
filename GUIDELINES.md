@@ -191,7 +191,7 @@ By following these best practices, you can write more reliable, efficient, and m
 
 ### What programming language to use
 
-At the time of writing, we use NextJs Framework for frontend and backend devlopment.
+At the time of writing, we use [NextJs](https://nextjs.org/) Framework for frontend and backend devlopment.
 Though we recommend use of typescript for NextJs, it is not compulsory. Developers who have issue
 dealing with typescript can use javascript instead.
 
